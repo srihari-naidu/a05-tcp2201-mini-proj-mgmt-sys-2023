@@ -1,0 +1,5 @@
+| ID | Title | Description | Specialization | Active | Assigned | Creator ID |
+1;Machine Learning in Detecting Offensive Media;Student is required to build a Machine Learning model to detect offensive media—nudity, racism, hatespeech, etc.);Machine Learning;Inactive;Unassigned;2
+2;Software Engineering a Web3 Marketplace;Student is required to build a Web3 Marketplace to using proper Software Engineering techniques & procedure.;Software Engineering;Active;Unassigned;2
+3;Machine Learning Project #1;This is a test #1 machine learning project.;Machine Learning;Active;Unassigned;2
+4;Machine Learning Project #2;Another test Machine Learning Project.;Machine Learning;Active;Assigned;2
