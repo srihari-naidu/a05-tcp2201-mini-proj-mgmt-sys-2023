@@ -24,10 +24,6 @@ To use the MMU Online Mini-project Management System, follow these steps:
 2. Navigate to the appropriate page based on your user role.
 3. Perform the necessary actions, such as adding, deleting, or commenting on projects.
 
-## Credits
-
-This project was created by my team from the Faculty of Computing and Informatics for the Bachelors of Computer Science Trimester 2, 2022/2023 Objec-Oriented Analysis & Design.
-
 ## Technologies Used
 
 - Java
@@ -36,3 +32,7 @@ This project was created by my team from the Faculty of Computing and Informatic
 ## Documentation
 
 For more information on how to use the MMU Online Mini-project Management System, please refer to the user documentation in the `docs` folder.
+
+## Credits
+
+This project was created by my team from the Faculty of Computing and Informatics for the Bachelors of Computer Science Trimester 2, 2022/2023 Objec-Oriented Analysis & Design.
