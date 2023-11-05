@@ -35,4 +35,4 @@ For more information on how to use the MMU Online Mini-project Management System
 
 ## Credits
 
-This project was created by my team from the Faculty of Computing and Informatics for the Bachelors of Computer Science Trimester 2, 2022/2023 Objec-Oriented Analysis & Design.
+This project was created by my team from the Faculty of Computing and Informatics for the Bachelors of Computer Science Trimester 2, 2022/2023 Object-Oriented Analysis & Design.
